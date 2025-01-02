@@ -1,0 +1,23 @@
+.app {
+  width: auto;
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counterBox {
+  min-width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  width: 100%;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,14 @@
+button {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 1.5em;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    min-width: 50px;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
